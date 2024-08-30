@@ -1,0 +1,5 @@
+Symbol,Name,Spread As Low as (Quote Currency),Commission,Contract Size (Per Lot),Minimum Contract Size (Lot)
+XAUUSD,Gold Ounce vs US Dollar,0.2,$3,100 Oz,0.01
+XAGUSD,Silver Ounce vs US Dollar,0.035,$3,5000 Oz,0.01
+XPTUSD,Platinum vs US Dollar,7.42,$3,100 Oz,0.01
+XPDUSD,Palladium vs US Dollar,2.35,$3,100 Oz,0.01

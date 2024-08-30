@@ -1,0 +1,45 @@
+Symbol,Name,Spread As Low as (pips),Commission,Contract Size (Per Lot),Minimum Contract Size (Lot)
+AUDCAD,Australian Dollar vs Canadian Dollar,0.5,$3,100000 AUD,0.01
+AUDCHF,Australian Dollar vs Swiss Franc,0.4,$3,100000 AUD,0.01
+AUDJPY,Australian Dollar vs Japanese Yen,0.4,$3,100000 AUD,0.01
+AUDNZD,Australian Dollar vs New Zealand Dollar,2.1,$3,100000 AUD,0.01
+AUDUSD,Australian Dollar vs US Dollar,0.3,$3,100000 AUD,0.01
+CADCHF,Canadian Dollar vs Swiss Franc,0.5,$3,100000 CAD,0.01
+CADJPY,Canadian Dollar vs Japanese Yen,0.4,$3,100000 CAD,0.01
+CHFJPY,Swiss Franc vs Japanese Yen,1.4,$3,100000 CHF,0.01
+EURAUD,Euro vs Australian Dollar,0.7,$3,100000 EUR,0.01
+EURCAD,Euro vs Canadian Dollar,0.4,$3,100000 EUR,0.01
+EURCHF,Euro vs Swiss Franc,0.4,$3,100000 EUR,0.01
+EURCZK,Euro vs Czech Koruna,24.8,$3,100000 EUR,0.01
+EURGBP,Euro vs British Pound,0.4,$3,100000 EUR,0.01
+EURHUF,Euro vs Hungarian Forint,22.1,$3,100000 EUR,0.01
+EURJPY,Euro vs Japanese Yen,0.3,$3,100000 EUR,0.01
+EURNOK,Euro vs Norwegian Krone,21.6,$3,100000 EUR,0.01
+EURNZD,Euro vs New Zealand Dollar,1.5,$3,100000 EUR,0.01
+EURPLN,Euro vs Polish Zloty,7.7,$3,100000 EUR,0.01
+EURSEK,Euro vs Swedish Krona,10.4,$3,100000 EUR,0.01
+EURUSD,Euro vs US Dollar,0.1,$3,100000 EUR,0.01
+GBPAUD,British Pound vs Australian Dollar,1.1,$3,100000 GBP,0.01
+GBPCAD,British Pound vs Canadian Dollar,0.8,$3,100000 GBP,0.01
+GBPCHF,British Pound vs Swiss Franc,0.9,$3,100000 GBP,0.01
+GBPJPY,British Pound vs Japanese Yen,0.5,$3,100000 GBP,0.01
+GBPNZD,British Pound vs New Zealand Dollar,2.1,$3,100000 GBP,0.01
+GBPUSD,British Pound vs US Dollar,0.5,$3,100000 GBP,0.01
+NZDCAD,New Zealand Dollar vs Canadian Dollar,0.8,$3,100000 NZD,0.01
+NZDCHF,New Zealand Dollar vs Swiss Franc,0.6,$3,100000 NZD,0.01
+NZDJPY,New Zealand Dollar vs Japanese Yen,0.7,$3,100000 NZD,0.01
+NZDUSD,New Zealand Dollar vs US Dollar,0.4,$3,100000 NZD,0.01
+USDCAD,US Dollar vs Canadian Dollar,0.3,$3,100000 USD,0.01
+USDCHF,US Dollar vs Swiss Franc,0.3,$3,100000 USD,0.01
+USDCNH,US Dollar vs Chinese Yuan,2.5,$3,100000 USD,0.01
+USDJPY,US Dollar vs Japanese Yen,0.3,$3,100000 USD,0.01
+USDCZK,US Dollar vs Czech Koruna,8.3,$3,100000 USD,0.01
+USDDKK,US Dollar vs Danish Krone,4.4,$3,100000 USD,0.01
+USDHKD,US Dollar vs Hong Kong Dollar,1.7,$3,100000 USD,0.01
+USDHUF,US Dollar vs Hungarian Forint,18.7,$3,100000 USD,0.01
+USDMXN,US Dollar vs Mexican Peso,17.8,$3,100000 USD,0.01
+USDNOK,US Dollar vs Norwegian Krone,25.4,$3,100000 USD,0.01
+USDPLN,US Dollar vs Polish Zloty,6.8,$3,100000 USD,0.01
+USDSEK,US Dollar vs Swedish Krona,18.8,$3,100000 USD,0.01
+USDSGD,US Dollar vs Singapore Dollar,0.8,$3,100000 USD,0.01
+USDZAR,US Dollar vs South African Rand,18.6,$3,100000 USD,0.01

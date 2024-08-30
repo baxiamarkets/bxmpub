@@ -1,0 +1,15 @@
+Symbol,Name,Spread As Low as (Quote Currency),Long Swap Value (Quote Currency),Short Swap Value (Quote Currency),Monday Open,Friday Close,Session Break,Leverage Up To,
+AUS200,Australia 200 Spot Index CFD,1.3,-1.42,0.26,0:50,22:59,Daily: 07:30 - 08:10,1:500,<a href=https://baxiamarkets.com/australia-asx-200-index-aus200> Read more </a>
+CHINA50,FTSE China A50 Spot Index CFD,7.5,-2.69,0.49,3:05,22:40,"Daily: 10:25 - 11:05, 22:40 - 03:05",1:500,<a href=https://baxiamarkets.com/ftse-china-50-index-china50> Read more </a>
+DE40,Germany 40 (DAX) Spot Index CFD,0.6,-2.91,0.28,1:00,22:59,Daily: 23:00 - 01:00,1:500,<a href=https://baxiamarkets.com/german-dax-40-index-de40> Read more </a>
+ES35,Spain 35 Spot Index CFD,0.9,-1.78,0.17,10:00,21:00,"Daily: 00:00 - 10:00, 21:00 - 23:59",1:500,<a href=https://baxiamarkets.com/spain-ibex-35-index-es35> Read more </a>
+EUR50,Euro Stoxx 50 Spot Index CFD,1.5,-0.79,0.07,2:20,22:45,Daily: 22:45 - 02:20,1:500,<a href=https://baxiamarkets.com/euro-stoxx-50-index-euro50> Read more </a>
+F40,France CAC40 Spot Index CFD,0.9,-1.35,0.13,9:00,22:59,Daily: 23:00 - 09:00,1:500,<a href=https://baxiamarkets.com/france-cac-40-index-f40> Read more </a>
+HK50,Hong Kong 50 Spot Index CFD,8,-3.82,0.95,3:20,20:55,"Daily: 05:55-07:05, 10:25 - 11:20, 20:55 - 03:20",1:500,<a href=https://baxiamarkets.com/hang-seng-china-50-index-hk50> Read more </a>
+ITA40,Italy MIB 40 Spot Index CFD,10,-5.48,0.52,9:05,22:45,Daily: 22:45 - 09:05,1:500,<a href=https://baxiamarkets.com/italy-40-index-ita40> Read more </a>
+JP225,Japan 225 Spot Index CFD,6,-2.72,-2.74,1:00,22:59,Daily: 00:00 - 01:00,1:500,<a href=https://baxiamarkets.com/nikkei-225-index-jp225> Read more </a>
+NAS100,US Nasdaq 100 Spot Index CFD,1,-3.4,0.62,1:00,22:59,Daily: 00:00 - 01:00,1:500,<a href=https://baxiamarkets.com/nasdaq-100-index-nas100> Read more </a>
+SING30,Singapore Strait Times 30 Spot Index CFD,0.22,-0.06,0.01,2:35,22:40,"Daily: 11:15 - 11:55, 22:40 - 02:35",1:500,<a href=https://baxiamarkets.com/singapore-30-index-sing30> Read more </a>
+SPX500,US S&P500 Spot Index CFD,0.3,-0.97,0.18,1:00,22:59,Daily: 00:00 - 01:00,1:500,<a href=https://baxiamarkets.com/spx-index-spx500> Read more </a>
+UK100,UK FTSE 100 Spot Index CFD,1.8,-1.69,0.45,1:00,22:59,Daily: 00:00 - 01:00,1:500,<a href=https://baxiamarkets.com/ftse-100-index-uk100> Read more </a>
+US30,US Dow Jones 30 Spot Index CFD,2.5,-7.61,1.39,1:00,22:59,Daily: 00:00 - 01:00,1:500,<a href=https://baxiamarkets.com/dow-jones-industrial-average-index-us30> Read more </a>

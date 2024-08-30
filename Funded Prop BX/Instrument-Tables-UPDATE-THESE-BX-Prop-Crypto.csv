@@ -1,0 +1,30 @@
+Symbol,Name,Spread As Low as (Quote currency),Commission,Contract Size (Per Lot),Minimum Contract Size (Lot)
+ATMUSD,Cosmos (Atom) Vs US Dollar	,0.07,$0,100 ATM,0.01
+AVXUSD,Avax (Avalanche) Vs US Dollar,0.1,$0,10 AVX,0.01
+AVEUSD,Aave vs US Dollar,1.51,$0,10 AVE,0.01
+ADAUSD,Cardano vs US Dollar,0.00125,$0,1000 ADA,1
+BATUSD,Basic Attention Token vs US Dollar,0.00415,$0,1000 BAT,0.01
+BTCUSD,Bitcoin vs US Dollar,26.82,$0,1 BTC,0.01
+BNBUSD,Binance Coin vs US Dollar,0.35,$0,1 BNB,0.01
+BCHUSD,Bitcoin Cash vs US Dollar,1.12,$0,1 BCH,0.01
+CMPUSD,Compound vs US Dollar,0.8,$0,10 CMP,0.01
+CRVUSD,Curve DAO Token vs US Dollar,0.018,$0,1 CRV,0.01
+DOTUSD,Polkadot vs US Dollar,0.024,$0,100 DOT,0.01
+DOGUSD,Dogecoin vs US Dollar,0.00048,$0,10000 DOG,0.01
+ETHUSD,Ethereum vs US Dollar,1.76,$0,1 ETH,0.01
+EOSUSD,EOS vs US Dollar,0.009,$0,1000 EOS,0.01
+KSMUSD,Kusama vs US Dollar,0.072,$0,1 KSM,0.01
+LRCUSD,Loopring vs US Dollar,0.0058,$0,10000 LRC,0.01
+LTCUSD,Litecoin vs US Dollar,0.95,$0,1 LTC,0.01
+MKRUSD,Maker vs US Dollar,3.2,$0,1 MKR,0.01
+MANUSD,Decentraland (MANA) Token vs US Dollar,0.0023,$0,10000 MAN,0.01
+MATUSD,Polygon (MATIC) vs US Dollar,0.00253,$0,1000 MAT,0.01
+NERUSD,NEAR Protocol vs US Dollar,0.035,$0,1000 NER,0.01
+OMGUSD,OMG Network vs US Dollar,0.0015,$0,1 OMG,0.01
+SNDUSD,The Sandbox (SAND) vs US Dollar,0.0101,$0,1 SND,0.01
+SOLUSD,Solana vs US Dollar,0.007,$0,10 SOL,0.01
+SUSUSD,SushiSwap (SUSHI) vs US Dollar	,0.013,$0,1000 SUS,0.01
+TRXUSD,Tron vs US Dollar,0.000323,$0,1 TRX,0.01
+XLMUSD,Stellar Lumens vs US Dollar	,0.00098,$0,1000 XLM,0.01
+XRPUSD,Ripple vs US Dollar,0.0014,$0,100 XRP,0.01
+XTZUSD,Tezos vs US Dollar,0.005,$0,1000 XTZ,0.01

@@ -1,0 +1,10 @@
+Symbol,Name,Spread As Low as (Quote Currency),Commission,Contract Size (Per Lot),Minimum Contract Size (Lot)
+AUS200,Australia 200 Spot Index CFD,1.3,$0,1,0.01
+DE40,Germany 40 (DAX) Spot Index CFD,0.6,$0,1,0.01
+ES35,Spain 35 Spot Index CFD,0.9,$0,1,0.01
+F40,France CAC40 Spot Index CFD,0.9,$0,1,0.01
+JP225,Japan 225 Spot Index CFD,6,$0,1,1
+NAS100,US Nasdaq 100 Spot Index CFD,1,$0,1,0.01
+SPX500,US S&P500 Spot Index CFD,0.3,$0,1,0.01
+UK100,UK FTSE 100 Spot Index CFD,1.8,$0,1,0.01
+US30,US Dow Jones 30 Spot Index CFD,2.5,$0,1,0.01

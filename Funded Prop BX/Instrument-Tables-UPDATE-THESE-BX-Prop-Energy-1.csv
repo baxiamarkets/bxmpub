@@ -1,0 +1,4 @@
+Symbol,Name,Spread As Low as (Quote Currency),Commission,Contract Size (Per Lot),Minimum Contract Size (Lot)
+NGAS,Natural Gas (US) Spot CFD,0.02,$3,10000 MMBtu,0.01
+UKOIL,Brent (UK) Spot Oil CFD,0.03,$3,100 Barrels,0.01
+USOIL,WTI (US) Spot Oil CFD,0.03,$3,100 Barrels,0.01
